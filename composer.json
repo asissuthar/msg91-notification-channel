@@ -1,6 +1,6 @@
 {
     "name": "asissuthar/msg91-notification-channel",
-    "description": "Nexmo Notification Channel for laravel.",
+    "description": "Msg91 Notification Channel for laravel.",
     "type": "library",
     "license": "MIT",
     "authors": [
