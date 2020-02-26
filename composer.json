@@ -13,8 +13,8 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.2",
-        "asissuthar/msg91-laravel": "dev-master",
-        "illuminate/notifications": "^6.16"
+        "illuminate/notifications": "^6.16",
+        "asissuthar/msg91-laravel": "^1.1"
     },
     "autoload": {
         "psr-4": {
